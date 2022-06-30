@@ -1,3 +1,3 @@
 # tuiter-node-server
 
-For CS 5610.
+For CS-5610.
